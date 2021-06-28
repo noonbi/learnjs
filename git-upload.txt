@@ -1,7 +1,6 @@
 Publishing on Github Pages
 
-1. Github Branch - Public Repository
-2. Create a Branch
-2-1.Github main button - Create a Branch (Name : gh-pages)
-2-2. Publish button
-3. Publish - accountName.github.io/momentum/
+1. Condition - Github Branch = Public Repository
+2. Github Desktop - Current Branch - Create a Branch
+3. Github Desktop - Publish button
+4. Publish Check - accountName.github.io/momentum/
