@@ -1,0 +1,5 @@
+Publishing on Github Pages
+
+1. Github Branch - Public Repository
+2. Create a Branch
+2-1.Github main button - Create a Branch (Name : gh-pages)
